@@ -1,7 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# no this is not goof at all. give .md file conatining the instruction to install the dependecies and run the feature extraction scripts with propoer arguments.
-
 dependecies:
 conda create -n slowfast python=3.8
 conda activate slowfast
