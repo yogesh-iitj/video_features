@@ -69,6 +69,4 @@ The script processes each video by:
 - [PyTorchVideo](https://pytorchvideo.org/)
 - [CLIP: Connecting Text and Images](https://openai.com/research/clip)
 
-## License
 
-[Specify your license here]
