@@ -1,0 +1,7 @@
+conda create -n slowfast python=3.8
+conda activate slowfast
+conda install pytorch torchvision torchaudio cpuonly -c pytorch
+pip install pytorchvideo opencv-python tqdm
+pip install git+https://github.com/openai/CLIP.git
+pip install decord gluoncv-torch torch tqdm
+
